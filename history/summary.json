@@ -22,18 +22,20 @@
     "url": "https://api.vortex.skyfall.dev",
     "icon": "https://icons.duckduckgo.com/ip3/api.vortex.skyfall.dev.ico",
     "slug": "vortex-backend-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 300,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "13.59%",
+    "uptimeDay": "13.59%",
+    "uptimeWeek": "13.59%",
+    "uptimeMonth": "13.59%",
+    "uptimeYear": "13.59%",
+    "time": 329,
+    "timeDay": 329,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 329,
+    "dailyMinutesDown": {
+      "2024-08-29": 549
+    }
   },
   {
     "name": "Arcade Monitor",
