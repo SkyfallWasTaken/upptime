@@ -6,11 +6,8 @@ sites:
     url: https://vortex.skyfall.dev
   - name: Vortex Backend API
     url: https://api.vortex.skyfall.dev
-  - name: Vortex SMTP Server
-    url: mail.vortex.skyfall.dev
-    port: 25
-    check: "tcp-ping"
-    ipv6: true
+  - name: Arcade Monitor
+    url: https://arcade-monitor.skyfalldev.workers.dev
 
 assignees: # Users to assign downtime issues (optional)
   - SkyfallWasTaken
