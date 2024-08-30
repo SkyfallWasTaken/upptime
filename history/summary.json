@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 219,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.vortex.skyfall.dev.ico",
     "slug": "vortex-backend-api",
     "status": "down",
-    "uptime": "13.59%",
-    "uptimeDay": "13.59%",
-    "uptimeWeek": "13.59%",
-    "uptimeMonth": "13.59%",
-    "uptimeYear": "13.59%",
-    "time": 329,
-    "timeDay": 329,
-    "timeWeek": 329,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "uptime": "11.18%",
+    "uptimeDay": "11.18%",
+    "uptimeWeek": "11.18%",
+    "uptimeMonth": "11.18%",
+    "uptimeYear": "11.18%",
+    "time": 268,
+    "timeDay": 268,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-08-29": 549
+      "2024-08-30": 75,
+      "2024-08-29": 610
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 860,
-    "timeWeek": 860,
-    "timeMonth": 860,
-    "timeYear": 860,
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   }
 ]
