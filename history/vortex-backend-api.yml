@@ -1,7 +1,7 @@
 url: https://api.vortex.skyfall.dev
-status: down
-code: 502
-responseTime: 354
-lastUpdated: 2024-09-02T22:30:29.923Z
+status: up
+code: 200
+responseTime: 340
+lastUpdated: 2024-09-02T22:54:46.380Z
 startTime: 2024-08-29T12:23:24.968Z
 generator: Upptime <https://github.com/upptime/upptime>
