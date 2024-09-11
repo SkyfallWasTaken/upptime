@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.vortex.skyfall.dev.ico",
     "slug": "vortex-backend-api",
     "status": "up",
-    "uptime": "70.81%",
+    "uptime": "72.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.48%",
-    "uptimeMonth": "70.81%",
-    "uptimeYear": "70.81%",
+    "uptimeWeek": "83.38%",
+    "uptimeMonth": "72.34%",
+    "uptimeYear": "72.34%",
     "time": 310,
     "timeDay": 175,
     "timeWeek": 183,
@@ -48,17 +48,19 @@
     "url": "https://arcade-monitor.skyfalldev.workers.dev",
     "icon": "https://icons.duckduckgo.com/ip3/arcade-monitor.skyfalldev.workers.dev.ico",
     "slug": "arcade-monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 637,
-    "timeWeek": 611,
-    "timeMonth": 621,
-    "timeYear": 621,
-    "dailyMinutesDown": {}
+    "time": 647,
+    "timeDay": 824,
+    "timeWeek": 661,
+    "timeMonth": 647,
+    "timeYear": 647,
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   }
 ]
